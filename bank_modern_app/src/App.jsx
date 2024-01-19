@@ -10,7 +10,8 @@ import {
   CTA,
   Footer,
   Navbar,
-  Hero
+  Hero,
+  GoTop
 } from './components'
 
 const App = () => (
@@ -37,6 +38,7 @@ const App = () => (
         <Clients />
         <CTA />
         <Footer />
+        <GoTop />
       </div>
     </div>
   </div>
